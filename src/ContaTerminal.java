@@ -7,7 +7,7 @@ public class ContaTerminal {
         Integer Numero = 0 ;
         String agencia = "";
         String nomeCliente = "";
-        Double saldo = 237.48;
+        Double saldo = 237.48;;
 
         System.out.println("Por favor, digite o número da Agência");
 
