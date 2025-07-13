@@ -10,7 +10,6 @@ public class ContaTerminal {
         Double saldo = 237.48;
 
         System.out.println("Por favor, digite o número da Agência");
-
         ;
 
         }
